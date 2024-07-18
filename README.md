@@ -1,4 +1,3 @@
-
 <h1>Water Jug Challenge</h1>🫗
 
 </p>RESTful API:
@@ -14,7 +13,7 @@ exactly Z gallons, if feasible.
 •The solution must consider the actions: Fill, Empty, and Transfer (between the two jugs 
 only).</p>
 
-<>3Performance Considerations:
+<p>3Performance Considerations:
 • Optimize the algorithm for quick response times, especially considering the potential for 
 large input values.</p>
 
@@ -26,8 +25,7 @@ can be found.</p>
 <p>Testing:
 • Create unit tests to verify the correctness of the algorithm.
 • Include integration tests to ensure the API handles requests and responses correctl</p>
-
-🦋<h2>How to run</h2>
+🏃🏻<h2>How to run</h2>
 
 Clone the project using the following command on your terminal:
 
