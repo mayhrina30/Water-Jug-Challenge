@@ -28,6 +28,7 @@ can be found.</p>
 🏃🏻<h2>How to run</h2>
 ------------------------------------------------------------------------------------------------------------------------------------------
 <h2>Clone the project using the following command on your terminal:</h2>
+https://github.com/mayhrina30/Water-Jug-Challengee
 
 <p>Install the dependencies</p>
 
