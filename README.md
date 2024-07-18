@@ -25,6 +25,13 @@ can be found.</p>
 <p>Testing:
 • Create unit tests to verify the correctness of the algorithm.
 • Include integration tests to ensure the API handles requests and responses correctl</p>
+
+<h2>Installation: </h2>
+
+<h1>Instructions for setting up the development environment in Visual Studio.
+Includes how to install Node.js and npm if necessary.</h1>
+
+
 🏃🏻<h2>How to run</h2>
 ------------------------------------------------------------------------------------------------------------------------------------------
 <h2>Clone the project using the following command on your terminal:</h2>
