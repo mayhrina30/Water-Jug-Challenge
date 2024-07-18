@@ -28,8 +28,8 @@ can be found.</p>
 
 <h2>Installation: </h2>
 
-<h1>Instructions for setting up the development environment in Visual Studio.
-Includes how to install Node.js and npm if necessary.</h1>
+<p>Instructions for setting up the development environment in Visual Studio.
+Includes how to install Node.js and npm if necessary.</p>
 
 
 🏃🏻<h2>How to run</h2>
