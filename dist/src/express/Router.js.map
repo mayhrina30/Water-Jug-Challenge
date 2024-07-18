@@ -1,0 +1,1 @@
+{"version":3,"file":"Router.js","sourceRoot":"","sources":["../../../src/express/Router.ts"],"names":[],"mappings":";;;;;AAAA,sEAA8C;AAC9C,sGAA8E;AAE9E,MAAM,GAAG,GAAG,wBAAc,CAAC,MAAM,EAAE,CAAC;AACpC,GAAG,CAAC,IAAI,CAAC,YAAY,EAAE,wBAAc,CAAC,KAAK,CAAC,kCAAwB,CAAC,cAAc,CAAC,CAAC,CAAC;AACtF,kBAAe,GAAG,CAAC"}

@@ -1,5 +1,5 @@
-<h1>Water Jug Challenge</h1>🫗
----------------------------------------------------------------------------------------------------------------------------------
+## <h1>Water Jug Challenge</h1>🫗
+
 </p>RESTful API:
 • Develop endpoints to accept jug capacities (X and Y) and the target volume (Z) as inputs.
 • Ensure the API strictly adheres to REST principles with appropriate use of HTTP 
@@ -32,6 +32,5 @@ can be found.</p>
 <p>Install the dependencies</p>
 
 <p>npm install</p>
-
 
 <p>npm start</p>
