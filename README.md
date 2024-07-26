@@ -1,6 +1,6 @@
 ## <u><strong><h1>Water Jug Challenge</h1></strong></u>🫗
 
-<p>This project is an API developed in TypeScript using Express to solve the Water Jug Challenge. The API is structured into various folders and files that handle the challenge logic, server configuration, and testing.</p>
+✨<p>This project is an API developed in TypeScript using Express to solve the Water Jug Challenge. The API is structured into various folders and files that handle the challenge logic, server configuration, and testing.</p>
 
 <h2><u><strong>Clone the repository</strong></u></h2>
 
@@ -10,7 +10,7 @@ https://github.com/mayhrina30/Water-Jug-Challengee
 
 -----------------------------------------------------------------
 
-<h1>Installation</h1>
+<h1>Installation</h1>👩🏽‍🔧
 
 <p>To install the project dependencies, follow these steps:</p>
 
@@ -18,7 +18,7 @@ https://github.com/mayhrina30/Water-Jug-Challengee
 
 -------------------------------------------------------------------------------
 
-<h2><u><strong>Configuration</strong></u></h2>
+<h2><u><strong>Configuration</strong></u></h2>👩🏽‍💻
 
 <p>This project is configured for TypeScript. Make sure you have ts-node and typescript installed globally to run TypeScript code directly:
 
@@ -41,11 +41,14 @@ Execute a Post to http://localhost:4000/challenge with the x, y and z as body pa
 ![Diagrama de Flujo](https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(940).png)
 
 ---------------------------------------------------------------
-<h1>Tes</h1>&#129473
+<h1>Tes</h1>👩🏾‍🔬
 
 <h2>Run the tests with the following command: </h2>
 
 <p>npm test</p>
 
-![segundo]https://github.com/mayhrina30/Water-Jug-Challengee/blob/main/images/Captura%20de%20pantalla%20(936).png
+ **![Segunda Imagen](https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(936).png)**:
 
+ 
+
+✨✨✨✨✨✨✨
