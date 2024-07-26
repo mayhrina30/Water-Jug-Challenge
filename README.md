@@ -9,7 +9,6 @@ To install the project dependencies, follow these steps:
 Clone the repository:https://github.com/mayhrina30/Water-Jug-Challengee
 cd Water-Jug-Challengee
 
-<h2><u><strong>Installation</strong></u></h2>
 
 npm install
 
