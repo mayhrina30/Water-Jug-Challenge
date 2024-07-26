@@ -17,13 +17,14 @@ https://github.com/mayhrina30/Water-Jug-Challengee
 
 <p>This project is configured for TypeScript. Make sure you have ts-node and typescript installed globally to run TypeScript code directly:
 
-npm install -g ts-node typescript
+1-npm install -g ts-node typescript
 You will also need ts-jest to run the tests:
-npm install --save-dev ts-jest</p>
+2-npm install --save-dev ts-jest</p>
 
 </strong></u></h2>Usage</strong></u></h2>
 
 <p>To start the server, use the following command:
-npm start
+npm start</p>
 
+![PRIMERO]((https://github.com/mayhrina30/Water-Jug-Challengee/tree/main/images))
 
