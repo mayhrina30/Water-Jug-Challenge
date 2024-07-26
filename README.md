@@ -19,6 +19,7 @@ https://github.com/mayhrina30/Water-Jug-Challengee
 
 1-npm install -g ts-node typescript
 You will also need ts-jest to run the tests:
+
 2-npm install --save-dev ts-jest</p>
 
 </strong></u></h2>Usage</strong></u></h2>
@@ -26,5 +27,5 @@ You will also need ts-jest to run the tests:
 <p>To start the server, use the following command:
 npm start</p>
 
-![PRIMERO]((https://github.com/mayhrina30/Water-Jug-Challengee/tree/main/images))
+!((https://github.com/mayhrina30/Water-Jug-Challengee/tree/main/images))
 
