@@ -2,32 +2,28 @@
 
 <p>This project is an API developed in TypeScript using Express to solve the Water Jug Challenge. The API is structured into various folders and files that handle the challenge logic, server configuration, and testing.</p>
 
+<h2><u><strong>Clone the repository</strong></u></h2>
+https://github.com/mayhrina30/Water-Jug-Challengee
+<p>cd Water-Jug-Challengee</p>
+
 <h1>Installation</h1>
 
-To install the project dependencies, follow these steps:
+<p>To install the project dependencies, follow these steps:</p>
 
-Clone the repository:https://github.com/mayhrina30/Water-Jug-Challengee
-cd Water-Jug-Challengee
+<p>npm install</p>
 
-
-npm install
 
 <h2><u><strong>Configuration</strong></u></h2>
 
-This project is configured for TypeScript. Make sure you have ts-node and typescript installed globally to run TypeScript code directly:
-
+<p>This project is configured for TypeScript. Make sure you have ts-node and typescript installed globally to run TypeScript code directly:
 
 npm install -g ts-node typescript
 You will also need ts-jest to run the tests:
-
-
-npm install --save-dev ts-jest
+npm install --save-dev ts-jest</p>
 
 </strong></u></h2>Usage</strong></u></h2>
 
-To start the server, use the following command:
-
-
+<p>To start the server, use the following command:
 npm start
 
-![Diagrama de Flujo](images/Captura de pantalla(940).png)
+
