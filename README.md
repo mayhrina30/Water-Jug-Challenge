@@ -29,7 +29,5 @@ You will also need ts-jest to run the tests:
   
 npm start</p>
 
-[!((https://github.com/mayhrina30/Water-Jug-Challengee/tree/main/images))](https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(940).png
-)
+![Diagrama de Flujo](https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(940).png)
 
-https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(940).png
