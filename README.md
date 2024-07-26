@@ -15,8 +15,7 @@ https://github.com/mayhrina30/Water-Jug-Challengee
 <p>To install the project dependencies, follow these steps:</p>
 
 <p>npm install</p>
-```bash
-npm install
+
 
 -------------------------------------------------------------------------------
 
