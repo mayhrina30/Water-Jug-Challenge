@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import SolveChallenge from '../utils/SolveChallenge'; // Ajusta la ruta según tu estructura
+import SolveChallenge from '../utils/SolveChallenge'; 
 
 class SolveChallengeController {
     public static async solveChallenge(req: Request, res: Response): Promise<void> {
