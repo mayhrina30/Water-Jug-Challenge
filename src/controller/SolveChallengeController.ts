@@ -1,17 +1,26 @@
-import SolveChallenge from "../utils/SolveChallenge";
+import { Request, Response } from 'express';
+import SolveChallenge from '../utils/SolveChallenge'; // Ajusta la ruta según tu estructura
 
-export default class SolveChallengeController {
-  static solveChallenge(input: InputDTO): any {
-    const { body } = input;
-    if (!body.x || !body.y || !body.z) throw new Error("Missing required parameters");
-    const challenge = new SolveChallenge(body.x, body.y, body.z);
-    return challenge.execute();
-  }
+class SolveChallengeController {
+    public static async solveChallenge(req: Request, res: Response): Promise<void> {
+        try {
+            const { x, y, z } = req.body;
+
+            // Validación de entradas
+            if (typeof x !== 'number' || typeof y !== 'number' || typeof z !== 'number') {
+                res.status(400).json({ error: 'X, Y, and Z must be numbers' });
+                return;
+            }
+
+            // Verifica la solución
+            const challenge = new SolveChallenge(x, y, z);
+            const result = challenge.execute();
+
+            res.json(result);
+        } catch (error) {
+            res.status(500).json({ error: error.message });
+        }
+    }
 }
 
-type InputDTO = {
-  query: any;
-  body: any;
-  headers: any;
-  path: any;
-};
+export default SolveChallengeController;

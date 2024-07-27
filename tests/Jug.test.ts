@@ -1,4 +1,4 @@
-import Jug from "../src/models/Jug";
+import Jug from "../src/models/jug";
 
 test("Should be able to create a Jug", () => {
   const jug = new Jug(10, "testJug");

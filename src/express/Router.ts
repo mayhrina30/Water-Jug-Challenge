@@ -1,6 +1,8 @@
-import ExpressAdapter from "./ExpressAdapter";
-import SolveChallengeController from "../controller/SolveChallengeController";
+import { Router } from 'express';
+import SolveChallengeController from '../controller/SolveChallengeController';
+const router = Router();
 
-const app = ExpressAdapter.create();
-app.post("/challenge", ExpressAdapter.route(SolveChallengeController.solveChallenge));
-export default app;
+router.post('/solve', SolveChallengeController.solveChallenge);
+
+export default router;
+

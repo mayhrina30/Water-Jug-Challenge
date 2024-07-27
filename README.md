@@ -16,6 +16,11 @@ https://github.com/mayhrina30/Water-Jug-Challengee
 
 <p>npm install</p>
 
+<p>npm install memory-cache</p>
+
+<p>npm install --save-dev @types/memory-cache</p>
+
+
 
 -------------------------------------------------------------------------------
 
@@ -37,7 +42,9 @@ npm start</p>
 
 --------------------------------------------------------------------------------------
 
-Execute a Post to http://localhost:4000/challenge with the x, y and z as body parameters to solve the challenge.
+Execute a Post to http://localhost:3000/api/solve with the x, y and z as body parameters to solve the challenge.
+
+
 
 ![Diagrama de Flujo](https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(940).png)
 
