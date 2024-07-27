@@ -46,7 +46,7 @@ Execute a Post to http://localhost:3000/api/solve with the x, y and z as body pa
 
 
 
-![Diagrama de Flujo](https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(940).png)
+![Diagrama de Flujo](https://github.com/mayhrina30/Water-Jug-Challengee/blob/main/images/foto1.png)
 
 ---------------------------------------------------------------
 <h1>Tes</h1>👩🏾‍🔬
@@ -55,7 +55,12 @@ Execute a Post to http://localhost:3000/api/solve with the x, y and z as body pa
 
 <p>npm test</p>
 
- **![Segunda Imagen](https://github.com/mayhrina30/Water-Jug-Challengee/raw/main/images/Captura%20de%20pantalla%20(936).png)**:
+ **![Segunda Imagen](https://github.com/mayhrina30/Water-Jug-Challengee/blob/main/images/foto2.png)**:
+
+
+ **![Segund Imagen](https://github.com/mayhrina30/Water-Jug-Challengee/blob/main/images/foto3.png)**:
+
+
 
  
 
